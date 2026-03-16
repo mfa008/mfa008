@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Ce que je fais :<br>🔧 Je développe des applications web avec Laravel, Next, Nest, Node.js et MySQL.<br>💡 Je travaille sur des projets pratiques<br><br>🧠 Ce que j’apprends :<br>🟨 Node.js, Express.js<br><br>🟦 Python<br><br><br>🛠️ Compétences techniques :<br>Langages : JavaScript, PHP, SQL,JS<br><br>Frameworks : Laravel, Next.js, Nest, Express.js<br><br>Outils : Git & GitHub, MySQL/MariaDB, MongoDB<br><br>Systèmes : Ubuntu Server, configuration de services (DNS, Mail…), Docker 
+🚀 Ce que je fais :<br>🔧 Je développe des applications web avec Laravel, Next, Nest, Node.js, MySQL et PostgreSQL.<br>💡 Je travaille sur des projets pratiques<br><br><br><br>🛠️ Compétences techniques :<br>Langages : JavaScript, PHP, SQL, Java, C, XML <br><br>Frameworks : Laravel, Next, Nest, Express<br><br>Outils : Git & GitHub, MySQL/MariaDB, MongoDB<br><br>Systèmes : Ubuntu Server, configuration de services (DNS, Mail…), Docker 
 
 
 ## 🌐 Socials:
